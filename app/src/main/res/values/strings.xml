@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CleanApp Poznań</string>
+    <string name="action_settings">Settings</string>
+    <string name="zalogujTitle">Zaloguj</string>
+    <string name="emailHint">email</string>
+    <string name="passwordHint">hasło</string>
+    <string name="register_offline">Zarejestruj zgłoszenie offline</string>
+    <string name="new_entry_title">Nowe zgłoszenie</string>
+    <string name="categoryTitle">Kategoria:</string>
+    <string name="description_title">Opis:</string>
+    <string name="new_offline_entry_title">Nowe zgłoszenie offline</string>
+    <string name="bad_login_data_error">Złe dane logowania!</string>
+    <string name="entrypic1">entryPic1</string>
+    <string name="entrypic2">entryPic2</string>
+    <string name="welcome">Witaj</string>
+    <string name="add_entry">Dodaj zgłoszenie</string>
+    <string name="my_entries">MOJE ZGŁOSZENIA</string>
+    <string name="send">Utwórz</string>
+    <string name="error_connecting">Nie udało się połączyć z serwerem. Spróbuj ponownie później</string>
+    <string name="entry_created">Utworzono zgłoszenie!</string>
+    <string name="successfully_sent">Pomyśknie wysłano</string>
+    <string name="saveEntry">Zapisz i wyślij później</string>
+    <string name="sendEntry">Wyślij teraz</string>
+    <string name="successfully_saved">Pomyślnie zapisano zgłoszenie.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="send_remaining">Wyślij zapisane zgłoszenia</string>
+    <string name="location_error">Nie udało się utworzyć zgłoszenie. Nie udało się pobrać lokalizacji.</string>
+</resources>
